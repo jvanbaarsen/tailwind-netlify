@@ -1,0 +1,13 @@
+{
+  "name": "tailwindtest",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "jekyll serve"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.3.4",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.15"
+  }
+}
